@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sinangokk-jpg.github.io/opspilotco/sitemap.xml
